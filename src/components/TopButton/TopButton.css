@@ -1,0 +1,21 @@
+.goTop {
+  position: fixed;
+  width: 45px;
+  height: 45px;
+  bottom: 20px;
+  right: 20px;
+  text-decoration: none;
+  line-height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+  font-size: 20px;
+  background-color: #010101;
+  border-radius: 100px;
+  /* opacity: 0.75; */
+}
+
+.goTop:hover {
+  color: #010101;
+}

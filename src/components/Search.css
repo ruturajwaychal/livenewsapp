@@ -1,0 +1,26 @@
+.ui.search {
+  /* margin-top: 50px; */
+  text-align: center;
+}
+
+.prompt {
+  border-radius: 9px;
+  margin-top: 5px;
+  /* float: right; */
+  width: 15rem;
+}
+
+i {
+  cursor: pointer;
+}
+
+.search-bar {
+  width: 300px;
+  margin-bottom: 5px;
+}
+
+.search-icon {
+  color: #ffff;
+  font-size: 1.8rem;
+  margin: 0.5rem;
+}
